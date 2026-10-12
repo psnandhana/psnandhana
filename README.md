@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Nandhana 👋
 
-<!--
-**psnandhana/psnandhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👩‍💻 About Me
+- 🎓 Student at MACFAST 
+- 🌱 Learning GitHub, Coding & Projects
+- 📫 Reach me: psnandhana31@gmail.com
+- ✨ I love learning new things!
 
-Here are some ideas to get you started:
+ 🛠️ Skills
+`Python` `HTML` `CSS` `Git` `GitHub`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Nandhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=psnandhana&show_icons=true&theme=tokyonight)
+
+### 📫 Connect with me
+- Email: psnandhana31@gmail.com
+- GitHub: @psnandhana
